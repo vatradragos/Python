@@ -1,0 +1,1 @@
+print(101, 202, 303, "d", "e", "an element", "another element")
